@@ -1,7 +1,7 @@
 ## Olá! Sou a GABRIELA MAROTTI
 
 - 🎓 Estudante de Engenharia de Software (1º semestre)
-- 💻 Apaixonada por Ciência de Dados, Desenvolvimento Web e Cibersegurança
+- 💻 Apaixonada por Cibersegurança
 - 🎯 Buscando oportunidades de estágio para aplicar e expandir meus conhecimentos
 
 ##
